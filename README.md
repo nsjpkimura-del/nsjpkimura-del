@@ -1,16 +1,47 @@
-## Hi there 👋
+# NSJP_kimura
 
-<!--
-**nsjpkimura-del/nsjpkimura-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Deterministic AI Governance Architect.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## MoCKA
+
+Deterministic governance infrastructure for production-grade multi-agent AI.
+
+Append-only SHA256 audit chain.  
+Ed25519 key lifecycle control.  
+Multi-observer verification (continuous / cold / autonomous).  
+RFC3161 timestamp anchoring.
+
+Enables reproducible orchestration, institutional memory, and verifiable transparency — without blockchain or vendor lock-in.
+
+---
+
+## Research Themes
+
+- Cryptographic audit systems
+- Deterministic architectures
+- Multi-agent orchestration
+- AI governance & compliance
+- Tamper-evident logging
+- Zero-trust verification
+
+---
+
+## Collaboration
+
+Open to engineering collaboration, product integration, and adversarial review.
+
+Break it. Audit it. Improve it.
+
+---
+
+## 日本語
+
+決定論的AIガバナンス基盤を研究・構築しています。
+
+監査可能性、鍵統治、観測者分離、長期記憶制度設計。
+
+ブロックチェーンに依存しない、再現可能な整合性アーキテクチャ。
+
+外部レビュー・共同開発歓迎。
